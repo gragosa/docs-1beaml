@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-9chs20.rse-toiture.fr/sitemap.xml
